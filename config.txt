@@ -1,0 +1,11 @@
+11 /home/bhushan/Desktop/exec_new
+100 /home/bhushan/Desktop/abc/a.c
+010 /home/bhushan/Desktop/abc/b.c
+010 /home/bhushan/Desktop/abc/c.c
+101 /home/bhushan/Desktop/abc/d.c
+110 /home/bhushan/Desktop/abc/e.c
+010 /home/bhushan/Desktop/abc/f.c
+101 /home/bhushan/Desktop/abc/g.c
+110 /home/bhushan/Desktop/abc/h.c
+100 /home/bhushan/Desktop/abc
+100 /home/bhushan/Desktop/abcd

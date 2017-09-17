@@ -1,0 +1,22 @@
+http://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/fork/exec.html
+http://www.programiz.com/c-programming/examples/read-file
+https://webdocs.cs.ualberta.ca/~paullu/C498/meng.ptrace.slides.pdf
+http://stackoverflow.com/questions/9803908/difference-between-ptraceptrace-peekuser-and-ptraceptrace-peekdata
+ptrace man : http://man7.org/linux/man-pages/man2/ptrace.2.html
+http://www.linuxjournal.com/article/6100?page=0,1
+https://github.com/torvalds/linux/blob/master/arch/x86/entry/syscalls/syscall_64.tbl
+http://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/
+https://github.com/torvalds/linux/blob/master/arch/x86/entry/syscalls/syscall_64.tbl
+ptrace code : http://www.linuxjournal.com/article/6100?page=0,1
+TOOK LOT OF REFERENCES FROM STACK OVERFLOW
+MAN PAGES
+GOOGLE SEARCHES
+
+
+
+Other Students :
+-Shaurya Garg
+-Amit Barve
+-Siddharth
+-Ashwin
+-Sagar
