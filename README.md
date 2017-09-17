@@ -5,4 +5,4 @@ Whenever a child process tries to make any system call the parent process can ch
 
 This is thus a controlled environment (sandbox) in which the parent process checks child process permissions in "config.txt" file and thus verifies and decides if the child process be allowed to execute the call.
 
-The controlled environment can be used for testing of new softwares and check to see if it is maliciously trying to access any non-permitted files.
+The controlled environment can thus be used for testing of new softwares and to check if the software is maliciously trying to access any non-permitted files.
